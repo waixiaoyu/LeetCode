@@ -1,6 +1,4 @@
 /Interval.class
-<<<<<<< HEAD
-=======
 /ListNode.class
 /RandomizedSet.class
 /Solution056$1.class
@@ -20,7 +18,6 @@
 /Solution400.class
 /Solution401.class
 /Solution402.class
->>>>>>> e90f44cc1c2d8b692be32a4d08ae0900a71421c0
 /Solution404.class
 /Solution405.class
 /Solution406$1.class
@@ -47,20 +44,14 @@
 /Solution447.class
 /Solution448.class
 /Solution450.class
-<<<<<<< HEAD
 /Solution452$1.class
 /Solution452.class
-/Solution463.class
-/Solution482.class
-/TreeNode.class
 /Solution453.class
-/Solution473.class
-/Solution474.class
-=======
 /Solution463.class
-/Solution482.class
-/TreeNode.class
 /Solution464.class
->>>>>>> e90f44cc1c2d8b692be32a4d08ae0900a71421c0
+/Solution474.class
 /Solution475.class
 /Solution476.class
+/Solution482.class
+/TreeNode.class
+/Solution481.class
